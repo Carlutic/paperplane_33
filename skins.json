@@ -11,8 +11,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "Iroha_BaseBody_Hi_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191465,
@@ -26,8 +25,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "Iroha_NormalCos_Hi_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191466,
@@ -41,8 +39,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "Iroha_Swimwear_Hi_1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191467,
@@ -56,8 +53,7 @@
   "directory": "chars/char6",
   "image": "Covers/char6.png",
   "pmx": "RurudoLion_Swimwear_Hi_0.8.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191468,
@@ -71,8 +67,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "今汐Ver1.0.1_NoBDSM.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191469,
@@ -86,8 +81,7 @@
   "directory": "chars/char81",
   "image": "Covers/char81.png",
   "pmx": "卡提希娅Ver1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191470,
@@ -101,8 +95,7 @@
   "directory": "chars/char81",
   "image": "Covers/char81.png",
   "pmx": "卡提希娅Ver1.01_NoBDSM.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191471,
@@ -116,8 +109,7 @@
   "directory": "chars/char81",
   "image": "Covers/char81.png",
   "pmx": "卡提希娅Ver1.01_NoBDSMface.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191472,
@@ -131,8 +123,7 @@
   "directory": "chars/char82",
   "image": "Covers/char82.png",
   "pmx": "安可.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191473,
@@ -146,8 +137,7 @@
   "directory": "chars/char83",
   "image": "Covers/char83.png",
   "pmx": "鸣潮-尤诺 兔女郎V1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191474,
@@ -161,8 +151,7 @@
   "directory": "chars/char84",
   "image": "Covers/char84.png",
   "pmx": "珂莱塔Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  },
  {
   "id": 191475,
@@ -176,7 +165,6 @@
   "directory": "chars/char84",
   "image": "Covers/char84.png",
   "pmx": "珂莱塔Ver1.0_NoBDSM.pmx",
-  "base": "https://carlutic.github.io/paperplane_33/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_33/"
  }
 ]
